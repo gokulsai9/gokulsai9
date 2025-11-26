@@ -48,6 +48,8 @@ Skills: Web Scraping, Data Cleaning & Transformation, EDA, Performance Analysis
 Technology: Python, Pandas, Web Scraping, Power BI
 Result: Delivered a complete cricket analytics solution for strategic team selection.
 
+Code: https://github.com/gokulsai9/Cricket-T20-Analysis/blob/main/t20_data_preprocessing.ipynb
+
 
 
 <h3>Power BI Projects</h3>
