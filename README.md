@@ -1,6 +1,6 @@
 <h1 align="center">Gokul Sai Kumar Reddy Alla – Data Analyst Portfolio</h1>
 
-<h2>About Me</h2>
+<h2 id="about">About</h2>
 
 Hi, I'm Gokul! I am a Data Analyst with hands-on experience in **SQL, Power BI, Tableau, Excel, Python, and machine learning**. I specialize in data cleaning, modeling, KPI reporting, dashboard development, and transforming complex datasets into understandable, actionable insights.
 
@@ -25,10 +25,10 @@ This repository showcases my skills, projects, and continuous learning journey i
 
 
 
-<h2>Portfolio Projects</h2>
+<h2 id="portfolio-projects">Portfolio Projects</h2>
 
 Below are the projects from my CV, rewritten in portfolio style and categorized by tool/technology.
-<h3>Python Projects</h3>
+<h3 id="python-projects">Python Projects</h3>
 <h3>T20 World Cup Cricket Data Analytics</h3>
 
 Goal: To identify the top-performing cricket players and select the most balanced Playing XI using advanced analytics.
@@ -46,7 +46,7 @@ Code: https://github.com/gokulsai9/T20-World-Cup-Cricket-Data-Analytics/blob/mai
 
 
 
-<h3>Power BI Projects</h3>
+<h3 id="power-bi-projects">Power BI Projects</h3>
 <h3>Supply Chain Data Analytics – FMCG Industry</h3>
 
 Goal: Track and optimize delivery KPIs to improve supply chain efficiency and reduce operational costs.
@@ -62,7 +62,7 @@ Result: Strengthened data-driven decision-making for supply chain management.
 
 code: https://github.com/gokulsai9/Supply-Chain-Analysis/blob/main/README.md
 
-<h3>Tableau Projects</h3>
+<h3 id="tableau-projects">Tableau Projects</h3>
 <h3>Sales Comparison Dashboard (Tableau)</h3>
 
 Goal: Compare regional sales data to identify performance gaps, trends, and growth opportunities.
@@ -74,7 +74,7 @@ Skills: Tableau Parameters, Calculated Fields, KPI Visualization
 Technology: Tableau
 Result: Helped decision-makers identify regional gaps and evaluate sales strategies.
 
-<h2>Education</h2>
+<h2 id="education">Education</h2>
 
 MSc in Computer Science
 University of Hertfordshire, UK (Aug 2023 – Sep 2024)
@@ -82,13 +82,13 @@ University of Hertfordshire, UK (Aug 2023 – Sep 2024)
 B.Tech in Computer Science & Engineering
 Lovely Professional University, India (2018 – 2022)
 
-<h2>Certifications</h2>
+<h2 id="certifications">Certifications</h2>
 
 PL-300: Microsoft Power BI Data Analyst (Jul 2025)
 
 Master Certificate in Data Science (Simplilearn)
 
-<h2>Contact</h2>
+<h2 id="contact">Contact</h2>
 
 📧 Email: gokulalla99@gmail.com
 
