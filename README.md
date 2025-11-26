@@ -8,6 +8,8 @@ I have a strong technical background supported by an MSc in Computer Science and
 
 I’m passionate about building data solutions, visualizing performance trends, and using analytics to solve business problems in supply chain, sales, marketing, and HR domains.
 
+My CV in [pdf](https://github.com/gokulsai9/CV/blob/main/gokul-sai-kumar-reddy-alla-final-cv-1.pdf)
+
 This repository showcases my skills, projects, and continuous learning journey in Data Analytics & Data Science.
 
 <h2>Table of Contents</h2>
