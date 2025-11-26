@@ -76,6 +76,8 @@ Skills: Tableau Parameters, Calculated Fields, KPI Visualization
 Technology: Tableau
 Result: Helped decision-makers identify regional gaps and evaluate sales strategies.
 
+Code: https://github.com/gokulsai9/Sales-Comparison/blob/main/preprocessing.ipynb
+
 <h2 id="education">Education</h2>
 
 MSc in Computer Science
