@@ -44,7 +44,7 @@ Skills: Web Scraping, Data Cleaning & Transformation, EDA, Performance Analysis
 Technology: Python, Pandas, Web Scraping, Power BI
 Result: Delivered a complete cricket analytics solution for strategic team selection.
 
-Code: https://github.com/gokulsai9/T20-World-Cup-Cricket-Data-Analytics/blob/main/data-processing.ipynb
+Code: [T20 World-Cup-Cricket-Data-Analysis](https://github.com/gokulsai9/T20-World-Cup-Cricket-Data-Analytics/blob/main/data-processing.ipynb)
 
 
 
@@ -62,7 +62,7 @@ Skills: KPI Tracking, Supply Chain Analytics, Power Query, Data Modelling
 Technology: Power BI, Excel
 Result: Strengthened data-driven decision-making for supply chain management.
 
-code: https://github.com/gokulsai9/Supply-Chain-Analysis/blob/main/README.md
+code: [Supply-Chain-Analysis](https://github.com/gokulsai9/Supply-Chain-Analysis/blob/main/README.md)
 
 <h3 id="tableau-projects">Tableau Projects</h3>
 <h3>Sales Comparison Dashboard (Tableau)</h3>
@@ -76,7 +76,7 @@ Skills: Tableau Parameters, Calculated Fields, KPI Visualization
 Technology: Tableau
 Result: Helped decision-makers identify regional gaps and evaluate sales strategies.
 
-Code: https://github.com/gokulsai9/Sales-Comparison/blob/main/preprocessing.ipynb
+Code: [Sales Comparison](https://github.com/gokulsai9/Sales-Comparison/blob/main/preprocessing.ipynb)
 
 <h2 id="education">Education</h2>
 
