@@ -66,6 +66,8 @@ Skills: KPI Tracking, Supply Chain Analytics, Power Query, Data Modelling
 Technology: Power BI, Excel
 Result: Strengthened data-driven decision-making for supply chain management.
 
+code: https://github.com/gokulsai9/Supply-Chain-Analysis/blob/main/README.md
+
 <h3>Tableau Projects</h3>
 <h3>Sales Comparison Dashboard (Tableau)</h3>
 
