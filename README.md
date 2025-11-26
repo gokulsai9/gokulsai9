@@ -12,23 +12,15 @@ This repository showcases my skills, projects, and continuous learning journey i
 
 <h2>Table of Contents</h2>
 
-About
-
-Portfolio Projects
-
-Python
-
-Power BI
-
-Tableau
-
-Excel / Other
-
-Education
-
-Certifications
-
-Contact
+- [About](#-about-me)
+- [Portfolio Projects](#-portfolio-projects)
+  - [Python](#-python-projects)
+  - [Power BI](#-power-bi-projects)
+  - [Tableau](#-tableau-projects)
+  - [Excel / Other](#-excel--other-projects)
+- [Education](#-education)
+- [Certifications](#-certifications)
+- [Contact](#-contact)
 
 
 <h2>Portfolio Projects</h2>
